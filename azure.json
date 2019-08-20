@@ -1,0 +1,17 @@
+{
+  "hosting": [
+    {
+      "app": {
+        "project": "angular-demo-app",
+        "target": "build",
+        "configuration": "production",
+        "path": "dist/angular-demo-app"
+      },
+      "azureHosting": {
+        "subscription": "198cd413-7754-4cae-b7b4-048151e7bb79",
+        "resourceGroupName": "angular-demo-app-static-deploy",
+        "account": "angulardemoappstatic"
+      }
+    }
+  ]
+}
