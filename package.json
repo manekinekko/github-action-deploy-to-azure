@@ -21,7 +21,7 @@
     "@angular/platform-browser": "~8.2.0",
     "@angular/platform-browser-dynamic": "~8.2.0",
     "@angular/router": "~8.2.0",
-    "@azure/ng-deploy": "0.1.0-beta.3",
+    "@azure/ng-deploy": "Azure/ng-deploy-azure#feat/ci-mode",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
